@@ -1,6 +1,8 @@
-  ### 👋 Hi, I’m Meet Savaliya, a graduated from Colorado State Univerity
-- 👀 I’m currently working as a Software Engineer, and also interested in development role in distributed systems and machine learning
-- 🌱 I’m currently learning Distributed systems and machine learning fundamentals
+  ###### 👋 Namaste, I’m Meet Savaliya
+  
+ - I graduated from Colorado State Univerity with Master's in Computer Science
+ - I am currently working as a Software Engineer in Longmont, Colorado. This space is for my personal projects that I work to sharpen my skills.
+ - I am passionate about backend in distributed systems or machine-learning and looking for new opportunities in those field. 
 
 <!---
 meetsav/meetsav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
