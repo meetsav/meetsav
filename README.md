@@ -1,4 +1,5 @@
-  ###### 👋 Namaste, I’m Meet Savaliya
+                                                 #### 👋 Namaste, I’m Meet Savaliya
+  -----------------------------------------------------------------------------------------------------------------------------------------------
   
  - I graduated from Colorado State Univerity with Master's in Computer Science
  - I am currently working as a Software Engineer in Longmont, Colorado. This space is for my personal projects that I work to sharpen my skills.
