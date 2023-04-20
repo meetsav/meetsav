@@ -1,4 +1,4 @@
-                                                 #### 👋 Namaste, I’m Meet Savaliya
+  #### 👋 Namaste, I’m Meet Savaliya
   -----------------------------------------------------------------------------------------------------------------------------------------------
   
  - I graduated from Colorado State Univerity with Master's in Computer Science
