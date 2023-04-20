@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Meet Savaliya, a graduated from Colorado State Univerity
+  ### 👋 Hi, I’m Meet Savaliya, a graduated from Colorado State Univerity
 - 👀 I’m currently working as a Software Engineer, and also interested in development role in distributed systems and machine learning
 - 🌱 I’m currently learning Distributed systems and machine learning fundamentals
 
